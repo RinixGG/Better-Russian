@@ -7,6 +7,7 @@
     "item.minecraft.quartz": "Кварц",
     "item.minecraft.wither_spawn_egg": "Яйцо призыва иссушителя",
     "item.minecraft.wither_skeleton_spawn_egg": "Яйцо призыва скелета-иссушителя",
+    "item.minecraft.mooshroom_spawn_egg": "Яйцо призыва грибной коровы",
     "item.minecraft.chest_minecart": "Вагонетка с сундуком",
     "item.minecraft.furnace_minecart": "Вагонетка с печкой",
     "item.minecraft.hopper_minecart": "Вагонетка с воронкой",
@@ -41,6 +42,10 @@
     "item.minecraft.zombified_piglin_spawn_egg": "Яйцо призыва свинозомби",
     "item.minecraft.bamboo_chest_raft": "Бамбуковый плот с сундуком",
     "item.minecraft.cherry_chest_boat": "Вишнёвая лодка с сундуком",
+    "item.minecraft.chainmail_chestplate": "Кольчужный нагрудник",
+    "item.minecraft.chainmail_helmet": "Кольчужный шлем",
+    "item.minecraft.fire_charge": "Огненный шар",
+    "item.minecraft.zoglin_spawn_egg": "Яйцо призыва зоброва",
 
     // Блоки
     "block.minecraft.deepslate_gold_ore": "Глубинная золотая руда",
@@ -184,6 +189,7 @@
     "block.minecraft.waxed_oxidized_cut_copper_slab": "Вощёный состаренный резной медный полублок",
     "block.minecraft.waxed_weathered_cut_copper_slab": "Вощёный окисленный резной медный полублок",
     "block.minecraft.weathered_cut_copper_slab": "Состаренный резной медный полублок",
+    "block.minecraft.polished_blackstone_button": "Чернитная кнопка",
 
     // Сущности
     "entity.minecraft.villager.none": "Житель",
@@ -198,6 +204,8 @@
     "entity.minecraft.hoglin": "Боров",
     "entity.minecraft.zombified_piglin": "Свинозомби",
     "entity.minecraft.spawner_minecart": "Вагонетка со спавнером",
+    "entity.minecraft.mooshroom": "Грибная корова",
+    "entity.minecraft.zoglin": "Зобров",
 
     // Достижения
     "advancements.adventure.avoid_vibration.title": "Скрытность 100",
@@ -268,7 +276,7 @@
     "subtitles.entity.hoglin.ambient": "Боров ревёт",
     "subtitles.entity.hoglin.angry": "Боров сердито рычит",
     "subtitles.entity.hoglin.attack": "Боров атакует",
-    "subtitles.entity.hoglin.converted_to_zombified": "Боров превращается в зоглина",
+    "subtitles.entity.hoglin.converted_to_zombified": "Боров превращается в зоброва",
     "subtitles.entity.hoglin.death": "Боров погибает",
     "subtitles.entity.hoglin.hurt": "Боров ранен",
     "subtitles.entity.hoglin.retreat": "Боров отступает",
@@ -278,6 +286,17 @@
     "subtitles.entity.zombified_piglin.angry": "Свинозомби сердито хрюкает",
     "subtitles.entity.zombified_piglin.death": "Свинозомби погибает",
     "subtitles.entity.zombified_piglin.hurt": "Свинозомби ранен",
+    "subtitles.entity.mooshroom.convert": "Грибная корова трансформируется",
+    "subtitles.entity.mooshroom.eat": "Грибная корова ест",
+    "subtitles.entity.mooshroom.milk": "Грибная корова подоена",
+    "subtitles.entity.mooshroom.suspicious_milk": "Грибная корова подоена загадочно",
+    "subtitles.entity.parrot.imitate.zoglin": "Попугай ревёт как зобров",
+    "subtitles.entity.zoglin.ambient": "Зобров ревёт",
+    "subtitles.entity.zoglin.angry": "Зобров сердито рычит",
+    "subtitles.entity.zoglin.attack": "Зобров атакует",
+    "subtitles.entity.zoglin.death": "Зобров погибает",
+    "subtitles.entity.zoglin.hurt": "Зобров ранен",
+    "subtitles.entity.zoglin.step": "Шаги зоброва",
 
     // Эффекты
     "effect.minecraft.water_breathing": "Подводное дыхание",
@@ -287,5 +306,8 @@
     "options.graphics.fast.tooltip": "«Быстрая» графика уменьшает количество видимого дождя и снега. Эффекты прозрачности отключены для некоторых блоков, таких как листва деревьев.",
 
     // Игровые правила
-    "gamerule.doWardenSpawning": "Появление надзирателей"
+    "gamerule.doWardenSpawning": "Появление надзирателей",
+
+    // Зачарования
+    "enchantment.minecraft.flame": "Горящая стрела"
 }
